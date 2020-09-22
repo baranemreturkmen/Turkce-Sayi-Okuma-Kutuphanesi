@@ -4,3 +4,7 @@ yerde olabilir buna dikkat edin) . Kütüphanenin düzgün bir şekilde çalış
 Aşağıda konsol ekranının çıktısı gözükmektedir. Girilen sayının basamak sayısı çok yüksek olduğundan sayının türkçe karşılığı tam olarak fotoğrafta gözükmemektedir.2. fotoğrafta sayının okunuşunun tamamının gözükebileceği şekilde basamak sayısı azaltılmıştır.
 
 <img src="https://github.com/baranemreturkmen/Turkce-Sayi-Okuma-Kutuphanesi/blob/master/say%C4%B1_oku_sonuc.png">
+
+Sayının okunuşunun tamamen gözüktüğü 2. fotoğraf
+
+<img src="https://github.com/baranemreturkmen/Turkce-Sayi-Okuma-Kutuphanesi/blob/master/say%C4%B1_oku_sonuc2.png">
